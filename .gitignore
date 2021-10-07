@@ -2,4 +2,4 @@
 .classpath
 Employee Wage.iml
 .idea/*
-.out/*
+out/*
